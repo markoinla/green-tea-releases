@@ -1,0 +1,16 @@
+[
+  {
+    "name": "competitor-analysis",
+    "description": "Research and compare competitor products, features, and positioning",
+    "author": "Green Tea",
+    "version": "1.0.0",
+    "path": "skills/competitor-analysis"
+  },
+  {
+    "name": "meeting-notes",
+    "description": "Structure, summarize, and extract action items from meeting notes",
+    "author": "Green Tea",
+    "version": "1.0.0",
+    "path": "skills/meeting-notes"
+  }
+]
