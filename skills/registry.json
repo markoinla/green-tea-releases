@@ -12,5 +12,33 @@
     "author": "Green Tea",
     "version": "1.0.0",
     "path": "skills/meeting-notes"
+  },
+  {
+    "name": "paid-ads",
+    "description": "Create, optimize, and scale paid advertising campaigns across Google, Meta, LinkedIn, and more",
+    "author": "Corey Haines",
+    "version": "1.0.0",
+    "path": "skills/paid-ads"
+  },
+  {
+    "name": "email-sequence",
+    "description": "Design email sequences, drip campaigns, and automated lifecycle email programs",
+    "author": "Corey Haines",
+    "version": "1.0.0",
+    "path": "skills/email-sequence"
+  },
+  {
+    "name": "copywriting",
+    "description": "Write and improve marketing copy for homepages, landing pages, pricing pages, and more",
+    "author": "Corey Haines",
+    "version": "1.0.0",
+    "path": "skills/copywriting"
+  },
+  {
+    "name": "product-marketing-context",
+    "description": "Create foundational product positioning and messaging context that other marketing skills reference",
+    "author": "Corey Haines",
+    "version": "1.0.0",
+    "path": "skills/product-marketing-context"
   }
 ]
