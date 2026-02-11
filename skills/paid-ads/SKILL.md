@@ -103,6 +103,8 @@ LI_LeadGen_CMOs-SaaS_Whitepaper_Mar24
 **Social Proof Lead:**
 > [Impressive stat or testimonial] → [What you do] → [CTA]
 
+**For detailed templates and headline formulas**: See [references/ad-copy-templates.md](references/ad-copy-templates.md)
+
 ---
 
 ## Audience Targeting Overview
@@ -120,6 +122,8 @@ LI_LeadGen_CMOs-SaaS_Whitepaper_Mar24
 - **Lookalikes**: Base on best customers (by LTV), not all customers
 - **Retargeting**: Segment by funnel stage (visitors vs. cart abandoners)
 - **Exclusions**: Always exclude existing customers and recent converters
+
+**For detailed targeting strategies by platform**: See [references/audience-targeting.md](references/audience-targeting.md)
 
 ---
 
@@ -237,6 +241,8 @@ LI_LeadGen_CMOs-SaaS_Whitepaper_Mar24
 ## Platform Setup
 
 Before launching campaigns, ensure proper tracking and account setup.
+
+**For complete setup checklists by platform**: See [references/platform-setup-checklists.md](references/platform-setup-checklists.md)
 
 ### Universal Pre-Launch Checklist
 - [ ] Conversion tracking tested with real conversion
