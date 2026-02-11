@@ -42,13 +42,6 @@
     "path": "skills/competitor-analysis"
   },
   {
-    "name": "meeting-notes",
-    "description": "Structure, summarize, and extract action items from meeting notes",
-    "author": "Green Tea",
-    "version": "1.0.0",
-    "path": "skills/meeting-notes"
-  },
-  {
     "name": "paid-ads",
     "description": "Create, optimize, and scale paid advertising campaigns across Google, Meta, LinkedIn, and more",
     "author": "Corey Haines",
