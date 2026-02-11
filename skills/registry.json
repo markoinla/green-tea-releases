@@ -63,6 +63,13 @@
     "path": "skills/copywriting"
   },
   {
+    "name": "social-content",
+    "description": "Create and optimize social media content for LinkedIn, Twitter/X, Instagram, TikTok, and more",
+    "author": "Corey Haines",
+    "version": "1.0.0",
+    "path": "skills/social-content"
+  },
+  {
     "name": "product-marketing-context",
     "description": "Create foundational product positioning and messaging context that other marketing skills reference",
     "author": "Corey Haines",
