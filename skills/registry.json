@@ -1,5 +1,40 @@
 [
   {
+    "name": "pdf",
+    "description": "Read, create, merge, split, watermark, encrypt, and OCR PDF files",
+    "author": "Green Tea",
+    "version": "1.0.0",
+    "path": "skills/pdf"
+  },
+  {
+    "name": "docx",
+    "description": "Create, read, edit, and format Word documents with tables, headings, and images",
+    "author": "Green Tea",
+    "version": "1.0.0",
+    "path": "skills/docx"
+  },
+  {
+    "name": "xlsx",
+    "description": "Create, read, edit, and format Excel spreadsheets with formulas, charts, and data cleaning",
+    "author": "Green Tea",
+    "version": "1.0.0",
+    "path": "skills/xlsx"
+  },
+  {
+    "name": "pptx",
+    "description": "Create, read, edit, and format PowerPoint presentations and slide decks",
+    "author": "Green Tea",
+    "version": "1.0.0",
+    "path": "skills/pptx"
+  },
+  {
+    "name": "skill-creator",
+    "description": "Create and update reusable skills that extend the agent with specialized knowledge and workflows",
+    "author": "Green Tea",
+    "version": "1.0.0",
+    "path": "skills/skill-creator"
+  },
+  {
     "name": "competitor-analysis",
     "description": "Research and compare competitor products, features, and positioning",
     "author": "Green Tea",
