@@ -75,5 +75,12 @@
     "author": "Corey Haines",
     "version": "1.0.0",
     "path": "skills/product-marketing-context"
+  },
+  {
+    "name": "apollo-io-search",
+    "description": "Search Apollo.io database for prospects, organizations, contacts, and sequences using their REST API",
+    "author": "Green Tea",
+    "version": "1.0.0",
+    "path": "skills/apollo-io-search"
   }
 ]
