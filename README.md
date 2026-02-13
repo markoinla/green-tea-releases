@@ -4,6 +4,11 @@ Download the latest version of Green Tea from the [Releases](https://github.com/
 
 ## Changelog
 
+### v0.3.1
+
+- Add Microsoft OAuth integration with Outlook email read/search support
+- Refactor accounts settings to collapsible accordion sections with connection status indicators
+
 ### v0.3.0
 
 - Add Google OAuth integration with per-service incremental authorization
