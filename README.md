@@ -4,6 +4,12 @@ Download the latest version of Green Tea from the [Releases](https://github.com/
 
 ## Changelog
 
+### v0.3.4
+
+- Add real-time speech-to-text input via mic button in chat toolbar (powered by Deepgram)
+- Audio streamed through Cloudflare Worker WebSocket proxy for secure API key handling
+- Add macOS audio-input entitlement for microphone access in signed builds
+
 ### v0.3.3
 
 - Fix checkbox alignment in notes to match bullet point styling
