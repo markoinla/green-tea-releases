@@ -4,6 +4,14 @@ Download the latest version of Green Tea from the [Releases](https://github.com/
 
 ## Changelog
 
+### v0.3.0
+
+- Add Google OAuth integration with per-service incremental authorization
+- Add Google Calendar tools: list events, get event details, search events (read-only)
+- Add Gmail tools: search messages, get full message content (read-only)
+- Add Google Drive tools: search files, read and create Google Docs, Sheets, and Slides
+- Per-service Connect/Disconnect controls in Settings (Calendar, Gmail, Drive)
+
 ### v0.2.5
 
 - Persist bug reporter name and email for prefilling on subsequent submissions
