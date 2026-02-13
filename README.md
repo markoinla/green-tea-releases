@@ -4,6 +4,13 @@ Download the latest version of Green Tea from the [Releases](https://github.com/
 
 ## Changelog
 
+### v0.3.3
+
+- Fix checkbox alignment in notes to match bullet point styling
+- Fix MCP server spawn error (npx ENOENT) by resolving full shell PATH at startup
+- Convert markdown to native Google Docs formatting when creating documents
+- Disable model toggles when no API key is set and add test connection button per provider
+
 ### v0.3.2
 
 - Redesign settings dialog with vertical sidebar tabs layout
