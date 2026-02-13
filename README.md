@@ -4,6 +4,11 @@ Download the latest version of Green Tea from the [Releases](https://github.com/
 
 ## Changelog
 
+### v0.3.2
+
+- Redesign settings dialog with vertical sidebar tabs layout
+- Add accordion-based models tab with per-model toggles and filtered chat dropdown
+
 ### v0.3.1
 
 - Add Microsoft OAuth integration with Outlook email read/search support
