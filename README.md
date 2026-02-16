@@ -4,6 +4,13 @@ Download the latest version of Green Tea from the [Releases](https://github.com/
 
 ## Changelog
 
+### v0.4.0
+
+- Replace floating table bubble menu with cell-anchored dropdown menu (trigger button in top-right of active cell)
+- Show text formatting toolbar (bold, italic, link, etc.) when selecting text inside table cells
+- Refactor IPC handlers into domain-specific modules for maintainability
+- Refactor chat input into smaller composable hooks and components
+
 ### v0.3.4
 
 - Add real-time speech-to-text input via mic button in chat toolbar (powered by Deepgram)
