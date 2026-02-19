@@ -4,12 +4,44 @@ Download the latest version of Green Tea from the [Releases](https://github.com/
 
 ## Changelog
 
+### v0.4.4
+
+- Add comprehensive test suite with 158 tests across 18 test files
+- Upgrade agent framework to pi-agent 0.53.0
+- Default AI model updated to Claude Sonnet 4.6
+- Open-source release under MIT license
+
+### v0.4.3
+
+- Add UI and code font size controls in Settings
+- Add live theme system with real-time preview
+- Harden skill adaptation and support repo-root GitHub URLs for skill installs
+- Optimize document change events
+
+### v0.4.2
+
+- Streamline agent system prompt
+
+### v0.4.1
+
+- Fix task lists not rendering when created by agent
+- Add duplicate note functionality
+
 ### v0.4.0
 
 - Replace floating table bubble menu with cell-anchored dropdown menu (trigger button in top-right of active cell)
 - Show text formatting toolbar (bold, italic, link, etc.) when selecting text inside table cells
 - Refactor IPC handlers into domain-specific modules for maintainability
 - Refactor chat input into smaller composable hooks and components
+
+### v0.3.6
+
+- Fix task list checkbox alignment with text content
+- Add document version history with in-place preview
+
+### v0.3.5
+
+- Fix scheduled tasks not running after system wake from sleep
 
 ### v0.3.4
 
